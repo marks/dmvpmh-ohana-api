@@ -19,6 +19,12 @@ accepted_payments:
 - 'Credit Card'
 - 'EBT Card'
 - 'Medicare'
+- 'Medicaid'
+- 'Pro Bono (based on availability)'
+- 'Out of Network Reimbursement'
+- 'Private Health Insurance'
+- 'Reduced Fee/Sliding Scale (based on availability)'
+- 'Self pay'
 
 # The email address that admin interface users should send questions/issues to.
 # This link appears when an admin views their locations and organizations.
